@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccioncinco.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccioncinco.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccioncuatro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccioncuatro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\secciontres.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\secciontres.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\secciondos.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\secciondos.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccionuno.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccionuno.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 349,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,72 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "seccionCinco.xaml",
-              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionCinco.xaml",
-              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionCinco.xaml",
-              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionCinco.xaml",
-              "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionCinco.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T18:19:00.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "seccionCuatro.xaml",
-              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionCuatro.xaml",
-              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionCuatro.xaml",
-              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionCuatro.xaml",
-              "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionCuatro.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T18:18:33.947Z",
-              "EditorCaption": ""
+              "Title": "seccionUno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
+              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
+              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
+              "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:43:33.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "seccionTres.xaml",
-              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionTres.xaml",
-              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionTres.xaml",
-              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionTres.xaml",
-              "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionTres.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T18:18:13.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "seccionDos.xaml",
-              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionDos.xaml",
-              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionDos.xaml",
-              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionDos.xaml",
-              "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionDos.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T18:17:54.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "seccionUno.xaml",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T18:17:17.038Z",
+              "WhenOpened": "2024-07-01T18:37:32.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PaginaPrincipal.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
@@ -119,21 +67,19 @@
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
               "ViewState": "AQIAACcAAAAAAAAAAADwv0cAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T00:49:42.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T00:49:42.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PaginaPrincipal.xaml",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAHAAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-21T00:21:03.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T00:21:03.335Z"
             }
           ]
         }

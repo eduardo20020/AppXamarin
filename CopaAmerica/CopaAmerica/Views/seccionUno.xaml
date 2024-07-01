@@ -3,11 +3,51 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CopaAmerica.Views.seccionUno">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Seccion UNO 1!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand"
-                FontAttributes="Bold"/>
-        </StackLayout>
+
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Bienvenido a Introduccion a HTML!"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                FontAttributes="Bold"
+                Margin="30"
+                FontSize="Title"/>
+
+
+
+
+
+                <Label Text="Introducción a HTML:"
+                VerticalOptions="Center" 
+                FontAttributes="Bold"
+                Margin="30,0,30,0"/>
+                <Label Margin="30,0,30,0" Text="HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear y estructurar páginas web en la World Wide Web. Es un lenguaje fundamental en el desarrollo web y proporciona la estructura básica para la creación de contenido en línea. Con HTML, los desarrolladores pueden definir la estructura y el significado del contenido utilizando una variedad de etiquetas y elementos."/>
+                <Image Source="logoHTML" WidthRequest="200" />
+
+
+
+                <Label Text="Conceptos Básicos de HTML:"
+                VerticalOptions="Center" 
+                FontAttributes="Bold"
+                Margin="30"/>
+
+
+                <Label Text="Estructura Básica de un Documento HTML:"
+                VerticalOptions="Center" 
+                FontAttributes="Bold"
+                Margin="30"/>
+
+                <Label Text="Importancia de HTML en el Desarrollo Web:"
+                VerticalOptions="Center" 
+                FontAttributes="Bold"
+                Margin="30"/>
+
+
+
+
+
+
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

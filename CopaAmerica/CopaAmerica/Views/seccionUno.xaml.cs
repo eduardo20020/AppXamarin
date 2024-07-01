@@ -15,6 +15,7 @@ namespace CopaAmerica.Views
 		public seccionUno ()
 		{
 			InitializeComponent ();
+			Title = "Introduccion a HTML";
 		}
 	}
 }

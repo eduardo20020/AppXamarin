@@ -19,3 +19,4 @@ C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica\obj\Debug\nets
 C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica\obj\Debug\netstandard2.0\Views\seccionDos.xaml.g.cs
 C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica\obj\Debug\netstandard2.0\Views\seccionTres.xaml.g.cs
 C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica\obj\Debug\netstandard2.0\Views\seccionUno.xaml.g.cs
+C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica\obj\Debug\netstandard2.0\CopaAmerica.sourcelink.json
