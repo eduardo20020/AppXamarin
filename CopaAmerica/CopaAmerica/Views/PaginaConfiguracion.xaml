@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CopaAmerica.Views.PaginaConfiguracion">
+
+
+
+    <ScrollView>
+        <StackLayout Padding="20">
+
+            <Label Text="Esta es la pagina de Configuracion!"
+                        FontSize="Title" FontAttributes="Bold"
+                        HorizontalTextAlignment="Center"
+                        x:Name="titulo"/>
+
+            <Label Text="Bienvenido, Dame tu nombre: " FontAttributes="Bold"/>
+            <Entry x:Name="nombre" Placeholder="Escribe tu nombre" Margin="20"/>
+
+
+
+            <StackLayout>
+                <Label Text="Dime cuanto tiempo quisieras estudiar al dia:"/>
+                <RadioButton Content="5 minutos" GroupName="tiempo"/>
+                <RadioButton Content="10 minutos" GroupName="tiempo" IsChecked="True"/>
+                <RadioButton Content="20 minutos" GroupName="tiempo"/>
+                <RadioButton Content="30 minutos" GroupName="tiempo"/>
+            </StackLayout>
+
+            <Button Text="listo" Clicked="GuardarConfig" Grid.Row="1" Margin="20"/>
+
+
+        </StackLayout>
+
+    </ScrollView>
+
+
+
+
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\Eduar\Desktop\cSharp\CopaAmerica\CopaAmerica\CopaAmerica.UWP\CopaAmerica.UWP.csproj;x64
