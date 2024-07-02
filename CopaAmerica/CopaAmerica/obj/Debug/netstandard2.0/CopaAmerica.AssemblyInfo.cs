@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopaAmerica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f67caef90f9f2ebfa7dfc51ad602b3e4eddf054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80afe2e51e76ef9e0653e144b039a8e221b1563")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopaAmerica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopaAmerica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

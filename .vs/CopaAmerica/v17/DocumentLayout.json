@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccionuno.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccionuno.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\seccionuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|c:\\users\\eduar\\desktop\\csharp\\copaamerica\\copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F296C4-70C0-48AD-B70A-DCE72A39B86E}|CopaAmerica\\CopaAmerica\\CopaAmerica.csproj|solutionrelative:copaamerica\\copaamerica\\views\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9406B0D1-0031-4722-B9F2-06DE356841CC}|CopaAmerica\\CopaAmerica.Android\\CopaAmerica.Android.csproj|C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\copaamerica\\copaamerica.android\\resources\\drawable\\logohtml.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9406B0D1-0031-4722-B9F2-06DE356841CC}|CopaAmerica\\CopaAmerica.Android\\CopaAmerica.Android.csproj|solutionrelative:copaamerica\\copaamerica.android\\resources\\drawable\\logohtml.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +38,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "logoHTML.png",
+              "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica.Android\\Resources\\drawable\\logoHTML.png",
+              "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica.Android\\Resources\\drawable\\logoHTML.png",
+              "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica.Android\\Resources\\drawable\\logoHTML.png",
+              "RelativeToolTip": "CopaAmerica\\CopaAmerica.Android\\Resources\\drawable\\logoHTML.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-01T21:05:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "seccionUno.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:43:33.783Z"
+              "WhenOpened": "2024-07-01T18:43:33.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "seccionUno.xaml",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\seccionUno.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-01T18:37:32.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PaginaPrincipal.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAADwv0cAAAAxAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T00:49:42.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PaginaPrincipal.xaml",
               "DocumentMoniker": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "RelativeDocumentMoniker": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "ToolTip": "C:\\Users\\Eduar\\Desktop\\cSharp\\CopaAmerica\\CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
               "RelativeToolTip": "CopaAmerica\\CopaAmerica\\Views\\PaginaPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAABDAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-21T00:21:03.335Z"
             }

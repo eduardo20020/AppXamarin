@@ -6,41 +6,117 @@
 
         <ScrollView>
             <StackLayout>
-                <Label Text="Bienvenido a Introduccion a HTML!"
-                VerticalOptions="Center" 
-                HorizontalOptions="Center"
-                FontAttributes="Bold"
-                Margin="30"
-                FontSize="Title"/>
+
+                <Frame CornerRadius="10" BackgroundColor="LightBlue" Margin="10,30,10,0" HasShadow="True" >
+                    <Label Text="Bienvenido a Introduccion a HTML!"
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Center"
+                    FontAttributes="Bold"
+                    FontSize="Title"
+                    TextColor="White"
+                    HorizontalTextAlignment="Center"/>
+                </Frame>
 
 
 
 
 
                 <Label Text="Introducción a HTML:"
-                VerticalOptions="Center" 
+                VerticalOptions="Center"
+                FontSize="Large"
                 FontAttributes="Bold"
                 Margin="30,0,30,0"/>
                 <Label Margin="30,0,30,0" Text="HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear y estructurar páginas web en la World Wide Web. Es un lenguaje fundamental en el desarrollo web y proporciona la estructura básica para la creación de contenido en línea. Con HTML, los desarrolladores pueden definir la estructura y el significado del contenido utilizando una variedad de etiquetas y elementos."/>
-                <Image Source="logoHTML" WidthRequest="200" />
+                <Image Source="logoHTML.png" WidthRequest="150" Margin="20" />
+                <Label Text="Toca aqui para conocer la historia y evolucion de HTML" TextColor="LightSkyBlue" Margin="20">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="historiayevolucion" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <BoxView HeightRequest="1" BackgroundColor="Gray" Margin="0,5,0,5" />
 
 
 
                 <Label Text="Conceptos Básicos de HTML:"
                 VerticalOptions="Center" 
+                FontSize="Large"
                 FontAttributes="Bold"
-                Margin="30"/>
+                Margin="30,0,30,0"/>
+                <StackLayout Margin="20">
+                    <Label Text="1. Etiquetas (Tags):" FontSize="Medium"  Margin="0,0,0,10" />
+                    <Label Text="Las etiquetas HTML son elementos que estructuran y definen el contenido de una página web. Se utilizan en pares de apertura (&lt;tag&gt;) y cierre (&lt;/tag&gt;) para marcar diferentes partes del contenido, como párrafos (&lt;p&gt;), encabezados (&lt;h1&gt; a &lt;h6&gt;), enlaces (&lt;a&gt;), imágenes (&lt;img&gt;), entre otros." Margin="0,0,0,10" />
+                    <Image Source="etiquetasHTML.jpg" WidthRequest="400" Margin="20" />
+                    <Label Text="Toca aqui para ver mas ejemplos de etiquetas HTML." TextColor="LightSkyBlue">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="etiquetas" />
+                        </Label.GestureRecognizers>
+                    </Label>
+                    
+                    <Label Text="2. Atributos:" FontSize="Medium"  Margin="0,0,0,10" />
+                    <Label Text="Los atributos proporcionan información adicional sobre las etiquetas HTML. Se colocan dentro de la etiqueta de apertura y permiten definir propiedades como el estilo (style), la clase (class), el identificador único (id), entre otros. Por ejemplo, el atributo href en la etiqueta &lt;a&gt; define la URL a la que se dirige el enlace, mientras que src en la etiqueta &lt;img&gt; especifica la fuente de la imagen." Margin="0,0,0,10" />
+                    <Image Source="atributos.png" WidthRequest="400" Margin="20" />
+
+
+
+                    <Label Text="3. Estructura Jerárquica:" FontSize="Medium"  Margin="0,0,0,10" />
+                    <Label Text="HTML describe la estructura de una página web de manera jerárquica y organizada. Los elementos se anidan unos dentro de otros para formar la estructura del documento. Por ejemplo, el cuerpo de la página web se define dentro de la etiqueta &lt;body&gt;, que a su vez puede contener encabezados, párrafos, listas y otros elementos." Margin="0,0,0,10" />
+                    <Image Source="jerarquica.png" WidthRequest="400" Margin="20" />
+
+
+
+
+                    <Label Text="4. Separación de Contenido y Presentación:" FontSize="Medium"  Margin="0,0,0,10" />
+                    <Label Text="HTML se centra en la estructura y el contenido de una página web, separando la presentación visual y los estilos mediante el uso de CSS (Cascading Style Sheets). Esto permite una gestión más eficiente del diseño y la apariencia de la página, facilitando la adaptación a diferentes dispositivos y mejorando la accesibilidad." Margin="0,0,0,10" />
+
+                    <Label Text="5. Evolución con HTML5:" FontSize="Medium"  Margin="0,0,0,10" />
+                    <Label Text="HTML5 es la última versión de HTML y ha introducido nuevas capacidades y elementos para mejorar la semántica, accesibilidad y funcionalidad de las páginas web modernas. Incluye elementos específicos para multimedia, gráficos, formularios avanzados y más, proporcionando a los desarrolladores herramientas poderosas para crear experiencias web dinámicas y atractivas." Margin="0,0,0,10" />
+                </StackLayout>
+                <BoxView HeightRequest="1" BackgroundColor="Gray" Margin="0,5,0,5" />
+
+
 
 
                 <Label Text="Estructura Básica de un Documento HTML:"
                 VerticalOptions="Center" 
                 FontAttributes="Bold"
-                Margin="30"/>
+                Margin="30,0,30,0"
+                FontSize="Large"/>
+                <Label Margin="30,0,30,0" Text="La estructura básica de un documento HTML sigue un formato estándar que incluye elementos fundamentales necesarios para que el navegador interprete y muestre correctamente el contenido. Aquí te presento la estructura básica de un documento HTML:"/>
+                <Image Source="basicahtml.png" WidthRequest="400" Margin="20" />
 
+
+                <BoxView HeightRequest="1" BackgroundColor="Gray" Margin="0,5,0,5" />
+
+                
+                
+                
                 <Label Text="Importancia de HTML en el Desarrollo Web:"
                 VerticalOptions="Center" 
                 FontAttributes="Bold"
-                Margin="30"/>
+                Margin="30,0,30,0"
+                FontSize="Large"/>
+                <StackLayout Margin="20">
+
+                    <Label Text="Estructura y Semántica:" FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="HTML proporciona la estructura básica y semántica para organizar y presentar contenido en la web, permitiendo a los desarrolladores crear páginas coherentes y fáciles de entender para los usuarios y motores de búsqueda." Margin="0,0,0,10" />
+
+                    <Label Text="Accesibilidad:" FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="Con etiquetas y atributos semánticos, HTML facilita la creación de contenido accesible para personas con discapacidades, mejorando la inclusión y usabilidad." Margin="0,0,0,10" />
+
+                    <Label Text="Compatibilidad y Estándares:" FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="Como estándar web, HTML es compatible con todos los navegadores y plataformas, asegurando que el contenido se muestre correctamente en cualquier dispositivo." Margin="0,0,0,10" />
+
+                    <Label Text="Interactividad y Multimedia:" FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="HTML permite la integración con CSS y JavaScript para crear páginas web dinámicas y ricas en multimedia, incluyendo audio, video y gráficos interactivos." Margin="0,0,0,10" />
+
+                    <Label Text="SEO:" FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="La estructura semántica de HTML mejora la optimización para motores de búsqueda, ayudando a mejorar la visibilidad y el ranking de las páginas web." Margin="0,0,0,10" />
+                </StackLayout>
+
+                <BoxView HeightRequest="1" BackgroundColor="Gray" Margin="0,5,0,5" />
+
+
+
 
 
 
